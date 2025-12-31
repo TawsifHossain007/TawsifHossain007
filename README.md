@@ -46,6 +46,12 @@ I enjoy learning by building real-world projects and improving code quality step
   <a href="https://www.linkedin.com/in/tawsif-hossain007/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+
+  <a href="mailto:tawsifhossain18.o@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+       alt="Email" 
+       width="40" />
+</a>
   
 </p>
 
