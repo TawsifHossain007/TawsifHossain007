@@ -43,7 +43,7 @@ I enjoy learning by building real-world projects and improving code quality step
 
 ## 🔗 Connect With Me
 <p>
-  <a href="[https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/tawsif-hossain007/)">
+  <a href="https://www.linkedin.com/in/tawsif-hossain007/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   
