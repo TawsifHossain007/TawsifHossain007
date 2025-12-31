@@ -6,10 +6,10 @@
 ---
 
 ## 👋 Hi, I'm **Tawsif Hossain**
-### 💻 Frontend Web Developer | MERN Stack Developer
+### 💻 Web Developer | MERN Stack Developer
 
 I’m a Computer Science & Engineering student passionate about building modern, responsive, and user-focused web applications.  
-Currently strengthening my frontend skills while gradually improving mt full-stack development skills, using the MERN stack.  
+Currently strengthening my frontend skills while gradually improving my full-stack development skills, using the MERN stack.  
 I enjoy learning by building real-world projects and providing solutions to real-world problems.
 
 ---
