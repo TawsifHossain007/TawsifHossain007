@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 Hi, I'm **Tawsif Hossain**
+##  Hi, I'm **Tawsif Hossain**
 ### 💻 Web Developer | MERN Stack Developer
 
 I’m a Computer Science & Engineering student passionate about building modern, responsive, and user-focused web applications.  
@@ -14,17 +14,17 @@ I enjoy learning by building real-world projects and providing solutions to real
 
 ---
 
-## 🚀 Current Activities
-- 🌱 Exploring **Next.js** and modern React patterns  
-- 🔥 Working with **React, Tailwind CSS, and Firebase**  
-- 🧠 Learning backend fundamentals with **Node.js & Express**  
-- 🛠 Building real-world web projects to sharpen problem-solving skills  
+## Current Activities
+-  Exploring **Next.js** and modern React patterns  
+-  Working with **React, Tailwind CSS, and Firebase**  
+-  Learning backend fundamentals with **Node.js & Express**  
+-  Building real-world web projects to sharpen problem-solving skills  
 
 ---
 
-## 🧰 Skills & Technologies
+##  Skills & Technologies
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
